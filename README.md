@@ -15,7 +15,8 @@ Base project for creating a full featured API using Flask.
 ## Develop
 Before all, be sure to have the following running:
 - MongoDB
-And check if the `config.py` is all set to your environment.
+
+Now check if the `config.py` is all set to your environment.
 
 After that, on the root folder of the project, run the following commands:
 ```
